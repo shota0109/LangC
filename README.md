@@ -1,3 +1,3 @@
 # LangC
 
-#https://vscode.div
+#https://vscode.divn
